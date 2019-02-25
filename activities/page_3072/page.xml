@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="503" moduleid="3072" modulename="page" contextid="3872">
+  <page id="503">
+    <name>Module 7 Reading</name>
+    <intro>&lt;p&gt;Module 7 Reading&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;strong&gt;Instruction with OER&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;With the submission of your lesson plan you should receive feedback both from your facilitator as well as a peer or colleague in the course with you. Now is the time to review that feedback and revise your lesson plan.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Your next task is to teach your lesson using OER with your learners. In the process, there are some key things you need to be aware of in order to help you review your instruction and ensure that your learners have met your objectives.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Although your lesson plan has assessment built into it in some form, it is important that you monitor not only your instruction, but also your learner’s interest, engagement, and of course whether or not they met your learning objectives. So what are some considerations and practices that can help you determine if your learners have learned the material and met your instructional goals? &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Monitor Learner Attitudes, Application and Engagement &lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;There are several ideas and suggestions for monitoring student learning while you deliver your instruction. From simple facial expressions to enthusiastic participation, teachers get a sense of their students’ attitudes, but these may not indicate if they are really learning: &lt;/p&gt;
+&lt;ul style="text-align: left;"&gt;
+&lt;li&gt;Learners can self-report about their learning experience&lt;/li&gt;
+&lt;li&gt;Use “exit tickets” to ask a specific question tied directly to your learning objective.&lt;/li&gt;
+&lt;li&gt;Observe that your students can use the materials appropriately (especially with Internet based resources, sometimes these are challenging for learners) How are learners interacting with your chosen OER and any complementary materials?&lt;/li&gt;
+&lt;li&gt;How did students perform on any interactive OER that may have had assessment built in?&lt;/li&gt;
+&lt;li&gt;Observe your students performing the task(s) required. Are they doing it proficiently? Do they need more resources or help?&lt;/li&gt;
+&lt;li&gt;Consider using “CATs” Classroom Assessment Techniques, these include summative and formative assessments. (see resource)&lt;/li&gt;
+&lt;li&gt;Use a task-based interview between teacher and learners during which you ask them to both perform a specific task and explain how and why they did the task as they did.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;There are many suggestions here; choose a few and use them when you teach your lesson using your lesson plan with your selected OER. You will need this information in our next phase of gauging student outcomes and evaluating instructional.&lt;/p&gt;
+&lt;p style="text-align: left; margin-left: 30px;"&gt;&lt;b&gt;Suggested Activity:&lt;/b&gt; Reflect on your own teaching style and determine if any of these tactics are already part of your “teaching toolkit” – they may be tactics you frequently use, but perhaps you do not keep records in any way. Develop a prompt of some kind and tuck it into your notes so you will see it at some point in your instruction and take a moment to record your findings or observations. &lt;/p&gt;
+&lt;p style="text-align: left; margin-left: 60px;"&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;&lt;span style="line-height: 1.231;"&gt;Teach it!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Now that you are armed with a revised and reviewed lesson plan, along with a plan for collecting data from learners during your instruction you are ready to head to the classroom!&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; As you finish this short module, be sure to complete the discussion forum activity. This will be an opportunity to share with your colleagues a copy of your revised lesson plan as well as provide a reflection on how your instruction went. Not only will it allow you to tell others about how well your instruction went, it is also an opportunity to report on how your learners received these new learning resources called Open Educational Resources. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Download text version of this page: &lt;a title="Opens file in a new window" href="@@PLUGINFILE@@/OpenScience_M7_Reading.rtf"&gt;Module 7 Reading&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1477947298</timemodified>
+  </page>
+</activity>

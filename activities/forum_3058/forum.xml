@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="514" moduleid="3058" modulename="forum" contextid="3858">
+  <forum id="514">
+    <type>qanda</type>
+    <name>Open Explorer</name>
+    <intro>&lt;p style="text-align: left;"&gt;&lt;strong&gt;Mission&lt;/strong&gt;: As a group, identify 10 unique OER that can be used for open teaching in science and 10 instructional strategies or approaches to open teaching that involve students reusing, remixing, or revising OER.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Each participant must contribute at least one OER and one open strategy to the group mission.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Reply to the Open Explorer discussion thread below to share your OER.  In your forum post:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;Identify one OER and one open strategy.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Specify which Rs you’re leveraging with the proposed strategy&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;Share what practices you think can be developed with the approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Once the mission is accomplished (you have completed the activity), you will be able to view other participants’ responses.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Tips:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;This mission is best accomplished by a Web search for OER and for resources created by the open community about teaching with OER. Use key words such as open pedagogy, OER instructional strategies, OER teaching practices, etc.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;OER of all types might provide important clues. Lesson plans might be particularly helpful. Use what you learned in &lt;em&gt;Course 1: Open Your Classroom with OER&lt;/em&gt; to search for OER.&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;The OER could be related to any topic, but when you post you must specify how they relate to science instruction.&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-19</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175636</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

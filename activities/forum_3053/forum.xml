@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="512" moduleid="3053" modulename="forum" contextid="3853">
+  <forum id="512">
+    <type>general</type>
+    <name>Reflection on integrating OER approaches</name>
+    <intro>&lt;p style="text-align: left;"&gt;Questions for Reflection:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;What is your general process for planning and delivering instruction?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;How much is instruction driven by OER selection or your lesson plan?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;What approach would you use to select and integrate OER into instruction?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;How would you remix or revise ASSURE to create an approach that works for you and your learners?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;In what ways, if any, does the information thus far change your practice?&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-19</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175600</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

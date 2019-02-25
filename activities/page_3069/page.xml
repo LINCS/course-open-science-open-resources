@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="501" moduleid="3069" modulename="page" contextid="3869">
+  <page id="501">
+    <name>LINCS Lesson Planner</name>
+    <intro>&lt;p&gt;Build your lesson in the online form and save to share with colleagues.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;div style="text-align: left;"&gt;The &lt;a title="New website  - Link to Lesson Planner - opens in a new tab." href="https://community.lincs.ed.gov/lesson-planner" target="_blank"&gt;LINCS Lesson Planner&lt;/a&gt; is a tool that allows you to build a full lesson, following the WIPPEA model and incorporating backward design. Instructions for using the Lesson Planner are included on the Lesson Planner. There's also a short explanation below. Create a lesson plan on the topic of your choice and incorporate formative assessment strategies. Save your lesson as you go. When you have completed your lesson, you can print it out for use in your classroom.&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;br /&gt;
+&lt;div&gt;&lt;strong&gt;&lt;span style="font-size: 1.17em; line-height: 1.231;"&gt;Lesson Planner&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;span&gt;When you go to the &lt;/span&gt;&lt;a title="link to LINCS Lesson Planner site" href="https://community.lincs.ed.gov/lesson-planner" target="_blank"&gt;LINCS Lesson Planner&lt;/a&gt;&lt;span&gt;, click the "Log In" menu link at the top right of the page. Log in using the same e-mail address and password as you use to access this course in the LINCS Learning Portal. Make sure to take the tutorial before you start your lesson plan.&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;&lt;/div&gt;
+&lt;div style="text-align: left;"&gt;
+&lt;h3&gt;Submit your Lesson&lt;/h3&gt;
+&lt;div&gt;&lt;span&gt;When you have completed your lesson, copy the URL link so you can share it with your facilitator and other participants in the discussion forum. You can also print the lesson for use in your classroom or print as a PDF file to save electronically.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>2</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>20</revision>
+    <timemodified>1533047523</timemodified>
+  </page>
+</activity>

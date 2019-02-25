@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="511" moduleid="3052" modulename="forum" contextid="3852">
+  <forum id="511">
+    <type>general</type>
+    <name>Open Science with multimedia OER</name>
+    <intro>&lt;p style="text-align: left;"&gt;Many OER fall into the category of multimedia tools, for example, live video, simulations, applications, and games. Research suggests that multimedia tools can be effective additions to science instruction. Why do they say that? Do you agree?  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Read the following short articles from the &lt;span&gt;Center on Technology and Disability's Education K-12 Library&lt;/span&gt;&lt;i&gt;.&lt;/i&gt;&lt;i&gt; &lt;/i&gt;Please explain why research suggests that multimedia can be effective for science instruction and tell us whether you agree. Also explain how multimedia OER can be used to support the development of student science practices.&lt;i&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="@@PLUGINFILE@@/Using%20Embedded%20Agents%20to%20Support%20Learning%20FINAL_0.pdf" title="Using Embedded Agents to Support Learning" target="_blank"&gt;Using Embedded Agents to Support Learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="@@PLUGINFILE@@/CITEd%20%20NCTI-%20Multimedia%20Tools%20Help%20Students%20Think%20Like%20a%20Scientist%20FINAL.pdf" title="Multimedia Tools Help Students Think Like a Scientist" target="_blank"&gt;Multimedia Tools Help Students Think Like a Scientist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="@@PLUGINFILE@@/CITEd%20-%20Learning%20with%20Computer%20Games%20and%20Simulations%20FINAL.pdf" title="Learning with Computer Games and Simulations" target="_blank"&gt;Learning with Computer Games and Simulations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;&lt;a title="Learning with Multimedia Agents" href="http://www.cited.org/index.aspx?page_id=141.#agents" target="_blank"&gt; &lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-19</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175582</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>1</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

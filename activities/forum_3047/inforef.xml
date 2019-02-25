@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <fileref>
+    <file>
+      <id>126574</id>
+    </file>
+    <file>
+      <id>126575</id>
+    </file>
+    <file>
+      <id>127974</id>
+    </file>
+  </fileref>
+  <scaleref>
+    <scale>
+      <id>19</id>
+    </scale>
+  </scaleref>
+  <grade_itemref>
+    <grade_item>
+      <id>1059</id>
+    </grade_item>
+  </grade_itemref>
+</inforef>

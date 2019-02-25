@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles_definition>
+  <role id="4">
+    <name>Non-editing teacher</name>
+    <shortname>teacher</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>Non-editing teachers can teach in courses and grade students, but may not alter activities.</description>
+    <sortorder>5</sortorder>
+    <archetype>teacher</archetype>
+  </role>
+  <role id="5">
+    <name>Student</name>
+    <shortname>student</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>Students generally have fewer privileges within a course.</description>
+    <sortorder>6</sortorder>
+    <archetype>student</archetype>
+  </role>
+</roles_definition>

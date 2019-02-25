@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="507" moduleid="3042" modulename="forum" contextid="3842">
+  <forum id="507">
+    <type>general</type>
+    <name>Introduce yourself and tell us what you want to do!</name>
+    <intro>&lt;p style="text-align: left;"&gt;Please take a moment to introduce yourself to your colleagues. Be sure to provide information on where you teach and how long you have taught. Also include a short paragraph about your goals for this course. Since you have taken the prerequisite course &lt;em&gt;Open Your Classroom to Open Education Resources!&lt;/em&gt;, please explain what you want to accomplish by participating in this course. These goals can help me monitor your progress and provide additional resources, as needed, to help you meet them. Be sure to read my introduction as well; it tells you a little about me and how I will be facilitating the course for the next several weeks.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;After posting to the forum, please take a few additional moments to welcome and respond to others in the course. This is the beginning of a fine relationship between like-minded and enthusiastic educators!&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;To begin, please select the “Add a new discussion topic” button below.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-4</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175507</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="504" moduleid="3074" modulename="page" contextid="3874">
+  <page id="504">
+    <name>Module 8 Reading</name>
+    <intro>&lt;p&gt;Module 8 Reading&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;strong&gt;The Value of Student Outcome Data &lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;You are returning to the course loaded with information from your students and some ideas of what “went right” and what needs some work. That is the teaching process.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;We’ll spend a few minutes with suggestions about how you can review your student data as well as your instructional process. Evaluation and revision is a constant in teaching. Rarely is a teacher satisfied with the way their lessons go. This is not because they are not good teachers, but rather it is because they ARE good teachers. Constant review, evaluation and revision makes for good teaching practices. And hopefully you have found that adding well selected, strategically placed Open Educational Resources within your instruction has not only helped your learners meet your stated learning objectives but also engaged them in the classroom, and maybe even beyond.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;So what do we do with that student data?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Evaluating the Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Depending on what assessment strategies you may have selected from the previous module, you likely have a lot of information you need to analyze regarding how well your students enjoyed this lesson you presented.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;So where to start?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;First, how did the learner score on any built-in assessments (either within some of the OER you chose, or through your own assessments)? Were your learners scoring highly?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Second, were you able to determine through learner self-reporting, exit tickets or other student input, learner reaction to your lesson? What suggestions did they have? Did they express that they enjoyed the lesson (and in particular, did they enjoy using the selected OER)?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Next were students able to &lt;/span&gt;&lt;b style="line-height: 1.231;"&gt;do&lt;/b&gt;&lt;span style="line-height: 1.231;"&gt; what was expected of them as stated in your learning objectives? Was it all students? A high majority? Only a few?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Depending on your answers, you will decide what needs to be modified or changed within your lesson plan. If students did not interact well with the materials (or the OER) can you determine why? Was the technology a barrier? Or maybe the OER itself was too complex or perhaps too simple? &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Evaluating the Instruction&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Once you have student feedback on your lesson, it’s time to begin evaluating your instruction. Although your data is going to be your first resource, after all, if your students meet the learning objectives, that is a good signal that your instruction and planning were successful. There are a few other considerations that may be useful:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;Was the delivery of instruction within specified timeframe of your lesson plan? Do adjustments need to be made for more or less time?&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Did the materials selected/technology used reliable? Although technology can be unpredictable, are there steps or resources you can utilize to minimize these potential problems?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Did you find your learners were engaged with you as the instructor, or with the materials you offered?&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;As you review your data and evaluate your instruction you’re ready for the next step. &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Next Steps&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Now you are ready to revise your lesson plan based on the answers to the questions posed earlier. Use this teaching experience to inform your next lesson using OER. With continued practice using some or all of the tools provided here, as well as those you developed on your own, you have the resources to find, review, evaluate and implement use of a variety of Open Educational Resources to enrich your instruction.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;As a final activity of the course, you are encouraged to share your insights, strategies and any tools or resources you found particularly useful throughout this process of using OER in your instruction. It is hoped that you will share not only what you have learned, but also what you have created. By sharing through OER Commons or other repositories, you will help to save other teachers significant time and effort in resource development and you will advance student learning beyond the classroom. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Download a text version of this document: &lt;a title="Opens file in a new window" href="@@PLUGINFILE@@/OpenScience_M8_Reading.rtf" target="_blank"&gt;Module 8 Reading&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1537802115</timemodified>
+  </page>
+</activity>

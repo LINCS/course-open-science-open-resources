@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="1944">
+      <roleid>5</roleid>
+      <capability>mod/forum:rate</capability>
+      <permission>1</permission>
+      <timemodified>1457970171</timemodified>
+      <modifierid>6</modifierid>
+    </override>
+    <override id="1945">
+      <roleid>4</roleid>
+      <capability>moodle/grade:edit</capability>
+      <permission>1</permission>
+      <timemodified>1457970171</timemodified>
+      <modifierid>6</modifierid>
+    </override>
+    <override id="1946">
+      <roleid>4</roleid>
+      <capability>moodle/course:viewhiddensections</capability>
+      <permission>1</permission>
+      <timemodified>1457970171</timemodified>
+      <modifierid>6</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+  </role_assignments>
+</roles>

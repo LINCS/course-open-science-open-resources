@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <roleref>
+    <role>
+      <id>5</id>
+    </role>
+  </roleref>
+  <scaleref>
+    <scale>
+      <id>19</id>
+    </scale>
+  </scaleref>
+  <grade_itemref>
+    <grade_item>
+      <id>1066</id>
+    </grade_item>
+  </grade_itemref>
+</inforef>

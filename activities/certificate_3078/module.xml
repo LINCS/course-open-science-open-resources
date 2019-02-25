@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="3078" version="2016052300">
+  <modulename>certificate</modulename>
+  <sectionid>1001</sectionid>
+  <sectionnumber>9</sectionnumber>
+  <idnumber></idnumber>
+  <added>1423517115</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleoncoursepage>1</visibleoncoursepage>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>0</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>{"op":"&amp;","showc":[true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true],"c":[{"type":"grade","id":1056,"min":80.00000},{"type":"grade","id":1161,"min":80.00000},{"type":"completion","cm":3051,"e":1},{"type":"completion","cm":3035,"e":1},{"type":"completion","cm":3041,"e":1},{"type":"completion","cm":3048,"e":1},{"type":"completion","cm":3046,"e":1},{"type":"completion","cm":3047,"e":1},{"type":"completion","cm":3049,"e":1},{"type":"completion","cm":3052,"e":1},{"type":"completion","cm":3053,"e":1},{"type":"completion","cm":3055,"e":1},{"type":"completion","cm":3056,"e":1},{"type":"completion","cm":3057,"e":1},{"type":"completion","cm":3058,"e":1},{"type":"completion","cm":3060,"e":1},{"type":"completion","cm":3061,"e":1},{"type":"completion","cm":3062,"e":1},{"type":"completion","cm":3064,"e":1},{"type":"completion","cm":3065,"e":1},{"type":"completion","cm":3066,"e":1},{"type":"completion","cm":3072,"e":1},{"type":"completion","cm":3074,"e":1},{"type":"completion","cm":3075,"e":1},{"type":"completion","cm":3136,"e":1}]}</availability>
+  <showdescription>0</showdescription>
+  <tags>
+  </tags>
+</module>

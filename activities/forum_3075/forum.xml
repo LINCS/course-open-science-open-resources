@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="518" moduleid="3075" modulename="forum" contextid="3875">
+  <forum id="518">
+    <type>general</type>
+    <name>Final reflection activity: future changes and closing reflections</name>
+    <intro>&lt;p style="text-align: left;"&gt;After reviewing your student response to the lesson and examining and evaluating your instruction during this lesson, please write about this experience. Would you deem your lesson using OER a success? Why or why not? What did you decide to change and why? Finally, provide a paragraph or so with your opinion about the value of using OER in your teaching practice.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;This will be your final forum post for the course. How time flies! Please be sure to complete the final course evaluation. Your feedback about this course and the information and instruction you received here is important to us. We, too, are in a process of continuous improvement, and we can only improve with your comments and suggestions.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Thank you for your participation and sharing!&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-19</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175708</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

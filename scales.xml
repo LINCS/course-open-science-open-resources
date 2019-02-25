@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scales_definition>
+  <scale id="4">
+    <courseid>0</courseid>
+    <userid>6</userid>
+    <name>Complete / Incomplete</name>
+    <scale>Incomplete, Complete</scale>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <timemodified>1396014825</timemodified>
+  </scale>
+  <scale id="18">
+    <courseid>45</courseid>
+    <userid>6</userid>
+    <name>OER-STEM Scale</name>
+    <scale>Incomplete, In Progress, Complete</scale>
+    <description>&lt;p&gt;&lt;span style="line-height: 107%; font-family: 'Calibri',sans-serif; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Scale used for identifying status of tasks and/or forum postings in the OER STEM courses.&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height: 107%; font-family: 'Calibri',sans-serif; font-size: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    <descriptionformat>1</descriptionformat>
+    <timemodified>1423244362</timemodified>
+  </scale>
+  <scale id="19">
+    <courseid>45</courseid>
+    <userid>6</userid>
+    <name>OER STEM Scale v2</name>
+    <scale>Not Started, In Progress, Complete</scale>
+    <description>&lt;p&gt;&lt;strong&gt;Not Started: &lt;/strong&gt;Participant has not submitted the activity online, or posted to discussion forum, for facilitator or peer review.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In Progress: &lt;/strong&gt;Participant has submitted the activity online, or posted to discussion forum, but to complete the activity requires additional action from the participant in response to corrective facilitator feedback. (e.g. rewrite goal for lesson plan/align lesson goal with plan, identify a resource that doesn't restrict reuse or sharing by learners)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Complete: &lt;/strong&gt;Participant has met all the requirements of the assignment and no additional action is required to complete the activity.  &lt;/p&gt;</description>
+    <descriptionformat>1</descriptionformat>
+    <timemodified>1425068390</timemodified>
+  </scale>
+</scales_definition>

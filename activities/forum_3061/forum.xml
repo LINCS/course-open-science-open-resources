@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="515" moduleid="3061" modulename="forum" contextid="3861">
+  <forum id="515">
+    <type>general</type>
+    <name>Select OER for your lesson</name>
+    <intro>&lt;p&gt;Identify three OER that might be used to meet your lesson objective (refer to list generated in the Open Explorer Activity in Module 4). Evaluate one of the OER, the one most appropriate for your lesson, using &lt;a href="http://www.achieve.org/publications/achieve-oer-rubrics" target="_blank"&gt;OER Commons’ Achieve Rubrics&lt;/a&gt; and discuss any additional criteria you used to determine the OER’s fit for your lesson.&lt;/p&gt;
+&lt;p&gt;Share links to the OER in this forum and discuss your experience using the Achieve Rubrics.&lt;/p&gt;
+&lt;p&gt;Please share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your lesson objective&lt;/li&gt;
+&lt;li&gt;A brief description of OER with a link to your evaluation in OER Commons&lt;/li&gt;
+&lt;li&gt;Whether and how the Achieve Rubric helped you determine whether/how OER might be used&lt;/li&gt;
+&lt;li&gt;Any additional criteria used to make your selection&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-19</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175653</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

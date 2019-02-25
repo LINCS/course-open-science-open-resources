@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inforef>
+  <grade_itemref>
+    <grade_item>
+      <id>1056</id>
+    </grade_item>
+  </grade_itemref>
+  <question_categoryref>
+    <question_category>
+      <id>216</id>
+    </question_category>
+    <question_category>
+      <id>217</id>
+    </question_category>
+    <question_category>
+      <id>218</id>
+    </question_category>
+    <question_category>
+      <id>219</id>
+    </question_category>
+    <question_category>
+      <id>220</id>
+    </question_category>
+    <question_category>
+      <id>398</id>
+    </question_category>
+    <question_category>
+      <id>399</id>
+    </question_category>
+  </question_categoryref>
+</inforef>

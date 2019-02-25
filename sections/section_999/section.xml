@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="999">
+  <number>7</number>
+  <name>7. Implementing a Lesson Using OER</name>
+  <summary></summary>
+  <summaryformat>1</summaryformat>
+  <sequence>3072,3073</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","showc":[true],"c":[{"type":"date","d":"&gt;=","t":1425960000}]}</availabilityjson>
+  <timemodified>0</timemodified>
+</section>

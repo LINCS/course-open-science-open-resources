@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="128" moduleid="3055" modulename="url" contextid="3855">
+  <url id="128">
+    <name>Resource: Heart Rate and Exercise Lesson</name>
+    <intro>&lt;p&gt;See Activity 7 (page 27) of this resource from the National Space Biomedical Research Institute for the information used to create the lesson referenced in the Module 3 presentation .&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <externalurl>http://www.nsbri.org/default/Documents/EducationAndTraining/Heart/TSO_Heart.pdf#page=27|978-1-888997-55-2</externalurl>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <parameters>a:0:{}</parameters>
+    <timemodified>1477946409</timemodified>
+  </url>
+</activity>

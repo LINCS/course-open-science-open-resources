@@ -1,0 +1,3468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="216">
+    <name>Default for OER-Science</name>
+    <contextid>1130</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>45</contextinstanceid>
+    <info>The default category for questions shared in context 'OER-Science'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150102141914+3JFIZH</stamp>
+    <parent>398</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="217">
+    <name>C1-Mod_1</name>
+    <contextid>1130</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>45</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150102141941+Sute90</stamp>
+    <parent>216</parent>
+    <sortorder>0</sortorder>
+    <questions>
+      <question id="1407">
+        <parent>0</parent>
+        <name>Course Outcomes -matching</name>
+        <questiontext>&lt;p&gt;Match the stated course outcomes from Module 1 below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review the Module 1 presentation.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>match</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141941+Y30ayj</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141941+Iei4Wh</version>
+        <hidden>0</hidden>
+        <timecreated>1420208381</timecreated>
+        <timemodified>1420208381</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_match_question>
+          <matchoptions id="51">
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <shownumcorrect>1</shownumcorrect>
+          </matchoptions>
+          <matches>
+            <match id="235">
+              <questiontext>&lt;p&gt;You will gain a foundational understanding of Open Educational Resources (OER) and how they can enrich your teaching.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Stated outcome</answertext>
+            </match>
+            <match id="236">
+              <questiontext>&lt;p&gt;You will gain search skills to refine search queries, apply appropriate filters, and determine licensing requirements.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Stated outcome</answertext>
+            </match>
+            <match id="237">
+              <questiontext>&lt;p&gt;You will learn how to use OER Commons, a repository of educational resources, to find, review, evaluate and save your favorite OER materials&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>Stated outcome</answertext>
+            </match>
+            <match id="238">
+              <questiontext>&lt;p&gt;You will learn how to create an OER.&lt;/p&gt;</questiontext>
+              <questiontextformat>1</questiontextformat>
+              <answertext>This was not a stated outcome.</answertext>
+            </match>
+          </matches>
+        </plugin_qtype_match_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1408">
+        <parent>0</parent>
+        <name>Course shell - purpose</name>
+        <questiontext>&lt;p&gt;What is the stated purpose of the course shell"Build a Lesson with OER?" &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 1&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141948+4QYd8s</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141948+AsA9cG</version>
+        <hidden>0</hidden>
+        <timecreated>1420208388</timecreated>
+        <timemodified>1420208388</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4600">
+              <answertext>&lt;p&gt;The course shell provides resources, presentations and materials to help you build your own OER online learning object for your learners using the learning management system Moodle. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, it is a starting point to create your own learning activity or course using OER.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4601">
+              <answertext>&lt;p&gt;I don't know.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you will learn more about the courselet if you continue your studies in the OER math or OER science courses. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4602">
+              <answertext>&lt;p&gt;It is a Moodle course I can use to help my students learn. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback>&lt;p&gt;This is true, but not the entire purpose, you still earn half credit. Review Module 1.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1011">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="2" contextid="1130">
+            <name>mod1</name>
+            <rawname>Mod1</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1409">
+        <parent>0</parent>
+        <name>Prerequisite for Math and Science</name>
+        <questiontext>&lt;p&gt;This self-paced course is a prerequisite for two additional courses offered by the Literacy Information and Communication System (LINCS). Which two courses will you be ready to enroll in once you have finished this one? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 1. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141955+8jcCeG</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141955+1BSS9g</version>
+        <hidden>0</hidden>
+        <timecreated>1420208395</timecreated>
+        <timemodified>1420208395</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4603">
+              <answertext>&lt;p&gt;Open Science - Open Resources: Engage Adult Learners for 21st Century Skills and Open Math - Open Resources: Engage Adult Learners for 21st Century Skills. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, these are the second and third courses in this series about OER STEM.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4604">
+              <answertext>&lt;p&gt;English Language Learner University - Principles of Second Language Teaching and Teaching Emergent Readers&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Although these are great courses (and we hope you take them) they are not part of the OER STEM series.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4605">
+              <answertext>&lt;p&gt;Adult Career Pathways: Building Strategic Partnerships and Developing Effective Bridge Programs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Although these are great courses (and we hope you take them) they are not part of the OER STEM series.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4606">
+              <answertext>&lt;p&gt;Learning to Achieve: Professional's Guide to Educating Adults and Learning Disabilities and Accommodations&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Although these are great courses (and we hope you take them) they are not part of the OER STEM series.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1012">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="2" contextid="1130">
+            <name>mod1</name>
+            <rawname>Mod1</rawname>
+          </tag>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="218">
+    <name>C1-Mod_2</name>
+    <contextid>1130</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>45</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150102141942+gjBKxZ</stamp>
+    <parent>216</parent>
+    <sortorder>1</sortorder>
+    <questions>
+      <question id="1410">
+        <parent>0</parent>
+        <name>5rs - David Wiley</name>
+        <questiontext>&lt;p&gt;The key to understanding OER lies in the phrase "resources that reside in the public domain or have been released under an intellectual property license that permits their free use and re-purposing by others." David Wiley refined this concept through the "5Rs Framework." Choose the statement below that represents Mr. Wiley's 5Rs Framework. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141942+V5d9t9</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141943+YWAYIl</version>
+        <hidden>0</hidden>
+        <timecreated>1420208382</timecreated>
+        <timemodified>1420208382</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4607">
+              <answertext>&lt;p&gt;Retain, Reuse, Revise, Remix and Redistribute.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes! That is correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4608">
+              <answertext>&lt;p&gt;Reuse, Revise, Remix and Redistribute. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback>&lt;p&gt;That is not entirely correct. This answer represents only 4 items in the framework. You still get half credit because these were the ORIGINAL elements of the framework before being revised by Mr. Wiley. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4609">
+              <answertext>&lt;p&gt;Research, Relevance, Reissue, Re-evaluate and Reclaim.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That is not correct. Review Module 2. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4610">
+              <answertext>&lt;p&gt;I do not know. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK! As you go through the course you will learn more -- especially in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1013">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1411">
+        <parent>0</parent>
+        <name>Abbreviation CC</name>
+        <questiontext>&lt;p&gt;What does the abbreviation CC stand for?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141943+U0HuIp</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141944+PYHnq2</version>
+        <hidden>0</hidden>
+        <timecreated>1420208383</timecreated>
+        <timemodified>1420208383</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4611">
+              <answertext>&lt;p&gt;Certified Commons&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4612">
+              <answertext>&lt;p&gt;Creative Commons&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4613">
+              <answertext>&lt;p&gt;Common Certification&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4614">
+              <answertext>&lt;p&gt;Creative Community&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1014">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1412">
+        <parent>0</parent>
+        <name>Assume copyright protected</name>
+        <questiontext>&lt;p&gt;Which of the following statements is most accurate when you are considering using resources you found on the Internet?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141944+W6WpaX</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141944+mUuujD</version>
+        <hidden>0</hidden>
+        <timecreated>1420208384</timecreated>
+        <timemodified>1420208384</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4615">
+              <answertext>&lt;p&gt;they are protected by copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4616">
+              <answertext>&lt;p&gt;they are in the public domain&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4617">
+              <answertext>&lt;p&gt;they are free to use&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Be careful about this assumption. It is best to assume that all materials found on the Internet are protected by Copyright. Always check the licensing to determine how you can use the material.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4618">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about this in module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1015">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1413">
+        <parent>0</parent>
+        <name>Attribution (Bonus question)</name>
+        <questiontext>&lt;p&gt;When you use an OER in your work, what elements should you include in the attribution? Select the best answer from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Creative Commons and the "&lt;a title="Links to the web site" href="https://wiki.creativecommons.org/Best_practices_for_attribution" target="_blank"&gt;Best practices for attribution&lt;/a&gt;" websites. TASL is an acronym that can help you remember: Title, Author, Source, License.  &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>10.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141944+lFqjlI</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141944+XXhwFa</version>
+        <hidden>0</hidden>
+        <timecreated>1420208384</timecreated>
+        <timemodified>1420208384</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4619">
+              <answertext>&lt;p&gt;title of the resource, authors name, source, and license. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That is correct! Think TASL!&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4620">
+              <answertext>&lt;p&gt;author's name, date found, source&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Not quite, think TASL: Title, Author, Source and License.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4621">
+              <answertext>&lt;p&gt;title of resource, source, license&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Not quite, think TASL: Title, Author, Source and License.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4622">
+              <answertext>&lt;p&gt;website URL&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Not quite, think TASL: Title, Author, Source and License.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1016">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1414">
+        <parent>0</parent>
+        <name>CC BY logo</name>
+        <questiontext>&lt;p&gt;&lt;img style="float: left; margin: 0px 10px;" src="@@PLUGINFILE@@/CC%20BY%20Logo.png" alt="Rectangle box with: Letters C C and a small human image with the letters B Y " width="88" height="31" /&gt;&lt;/p&gt;
+&lt;p&gt;This image represents a certain Creative Commons License. Choose the correct answer from the list below. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141945+oVn2EA</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141945+Ta3v5P</version>
+        <hidden>0</hidden>
+        <timecreated>1420208385</timecreated>
+        <timemodified>1420208385</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4623">
+              <answertext>&lt;p&gt;Creative Commons - Attribution&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4624">
+              <answertext>&lt;p&gt;Creative Commons&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.5000000</fraction>
+              <feedback>&lt;p&gt;Not quite; this license also indicates BY, for attribution, as well. (Partial credit given.)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4625">
+              <answertext>&lt;p&gt;Copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4626">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about these types of licenses in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1017">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1415">
+        <parent>0</parent>
+        <name>CC BY NC Logo</name>
+        <questiontext>&lt;p&gt;&lt;img style="float: left; margin-left: 10px; margin-right: 10px;" src="@@PLUGINFILE@@/by-nc.png" alt=" Rectangle box with: Letters C C and a small human image in a circle and a dollar sign in a circle with a slash through it." width="88" height="31" /&gt;This image represents a certain Creative Commons License. Choose the correct answer from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141945+73aP5o</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141945+3MGrAY</version>
+        <hidden>0</hidden>
+        <timecreated>1420208385</timecreated>
+        <timemodified>1420208385</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4627">
+              <answertext>&lt;p&gt;Attribution NonCommercial&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4628">
+              <answertext>&lt;p&gt;Attribution &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4629">
+              <answertext>&lt;p&gt;Attribution NonDeriv&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4630">
+              <answertext>&lt;p&gt;Copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1018">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1416">
+        <parent>0</parent>
+        <name>CC BY NC ND Logo</name>
+        <questiontext>&lt;p&gt;&lt;img style="margin-left: 10px; margin-right: 10px; float: left;" src="@@PLUGINFILE@@/by-nc-nd.png" alt="Rectangle box with: Letters C C and a small human image in a circle and a dollar sign in a circle with a slash through it, and a circle with an equal sign." width="88" height="31" /&gt;&lt;/p&gt;
+&lt;p&gt;This image represents a certain Creative Commons License. Choose the correct answer from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141946+m8t4TW</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141946+32EMV9</version>
+        <hidden>0</hidden>
+        <timecreated>1420208386</timecreated>
+        <timemodified>1420208386</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4631">
+              <answertext>&lt;p&gt;Attribution NonCommercial NoDerivs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4632">
+              <answertext>&lt;p&gt;Attribution NonCommercial&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4633">
+              <answertext>&lt;p&gt;Attribution ShareAlike&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4634">
+              <answertext>&lt;p&gt;Attribution ShareAlike NonCommercial NoDerivs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1019">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1417">
+        <parent>0</parent>
+        <name>CC BY NC SA Logo</name>
+        <questiontext>&lt;p&gt;&lt;img style="margin-left: 10px; margin-right: 10px; float: left;" src="@@PLUGINFILE@@/by-nc-sa.png" alt="Rectangle box with: Letters C C and a small human image in a circle and a dollar sign in a circle with a slash through it, and a circular arrow in a circle." width="88" height="31" /&gt;This image represents a certain Creative Commons License. Choose the correct answer from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141946+WsTaUT</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141946+HxErUt</version>
+        <hidden>0</hidden>
+        <timecreated>1420208386</timecreated>
+        <timemodified>1420208386</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4635">
+              <answertext>&lt;p&gt;Attribution NonCommercial ShareAlike&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4636">
+              <answertext>&lt;p&gt;Attribution NonCommercial NoDerivs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4637">
+              <answertext>&lt;p&gt;Attribution NonCommercial &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4638">
+              <answertext>&lt;p&gt;Attribution&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1020">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1418">
+        <parent>0</parent>
+        <name>CC BY ND Logo</name>
+        <questiontext>&lt;p&gt;&lt;img style="margin-left: 10px; margin-right: 10px; float: left;" src="@@PLUGINFILE@@/88x31CC-BY-ND.png" alt="Rectangle box with Letters C C and a small human image and a circle with and equals sign." width="88" height="31" /&gt;&lt;/p&gt;
+&lt;p&gt;This image represents a certain Creative Commons License. Choose the correct answer from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141946+FMHZzP</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141947+EoM49W</version>
+        <hidden>0</hidden>
+        <timecreated>1420208386</timecreated>
+        <timemodified>1420208386</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4639">
+              <answertext>&lt;p&gt;Attribution NoDeriv&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4640">
+              <answertext>&lt;p&gt;Attribution ShareAlike&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4641">
+              <answertext>&lt;p&gt;Attribution NonCommercial&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4642">
+              <answertext>&lt;p&gt;Copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1021">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1419">
+        <parent>0</parent>
+        <name>CC BY SA logo</name>
+        <questiontext>&lt;p&gt;&lt;img style="float: left; margin-left: 15px; margin-right: 15px;" src="@@PLUGINFILE@@/CC%20BY%20SA%20Logo.png" alt="Rectangle with two letters C in a circle, human image in a circle and a circular arrow in a circle. " width="88" height="31" /&gt;&lt;/p&gt;
+&lt;p&gt;This image represents a certain Creative Commons License. Choose the correct answer from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141947+LxFRW2</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141947+6PiUYB</version>
+        <hidden>0</hidden>
+        <timecreated>1420208387</timecreated>
+        <timemodified>1420208387</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4643">
+              <answertext>&lt;p&gt;Attribution ShareAlike&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4644">
+              <answertext>&lt;p&gt;Attribution&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4645">
+              <answertext>&lt;p&gt;Copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4646">
+              <answertext>&lt;p&gt;Attribution NonCommercial&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1022">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1420">
+        <parent>0</parent>
+        <name>Check the license</name>
+        <questiontext>&lt;p&gt;Select the best answer from the list below regarding how you should approach using materials you find on the Internet.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141947+EyhTaL</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141947+ATxKFb</version>
+        <hidden>0</hidden>
+        <timecreated>1420208387</timecreated>
+        <timemodified>1420208387</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4647">
+              <answertext>&lt;p&gt;As an educator, you should always check the license on any materials you want to use. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, never assume that because you found it online you can use it any way you want.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4648">
+              <answertext>&lt;p&gt;As an educator, there is no need to check the license on any materials you want to use. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4649">
+              <answertext>&lt;p&gt;Checking the license of works found online is not necessary.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4650">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licensing in Module 2, and how to search for appropriately licensed materials in Module 3.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1023">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1421">
+        <parent>0</parent>
+        <name>Define OER acyronm</name>
+        <questiontext>&lt;p&gt;What do the letters O E R stand for? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141948+9sCLnV</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141948+bc3xyP</version>
+        <hidden>0</hidden>
+        <timecreated>1420208388</timecreated>
+        <timemodified>1420208388</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4651">
+              <answertext>&lt;p&gt;Organizational editing resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4652">
+              <answertext>&lt;p&gt;Open educational resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4653">
+              <answertext>&lt;p&gt;Ongoing education resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4654">
+              <answertext>&lt;p&gt;Outside regional organization&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1024">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1422">
+        <parent>0</parent>
+        <name>Define open - 5R activities</name>
+        <questiontext>&lt;p&gt;When a resource is licensed in a way that allows users to engage in the 5R activities, the content is considered to be licensed as which of the following?&lt;/p&gt;
+&lt;p&gt;Content is considered _________&lt;span style="color: #ffffff; text-decoration: underline;"&gt;&lt;span style="color: #888888;"&gt; &lt;/span&gt;&lt;/span&gt;to the extent that its license allows users to engage in the 5R activities. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141949+zVNBA3</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141949+2QI9By</version>
+        <hidden>0</hidden>
+        <timecreated>1420208389</timecreated>
+        <timemodified>1420208389</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4655">
+              <answertext>&lt;p&gt;recyclable content&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4656">
+              <answertext>&lt;p&gt;open content&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4657">
+              <answertext>&lt;p&gt;available content&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4658">
+              <answertext>&lt;p&gt;free&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;Be careful not to confuse "free to use" versus an "open" resource. Materials can be free, but they are still copyright protected by the owner, and you typically cannot modify them.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1025">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1423">
+        <parent>0</parent>
+        <name>Definition OER - NETP</name>
+        <questiontext>&lt;p style="text-align: left;"&gt;The definition for Open Educational Resources (OER) cites specific resources that reside in the public domain or have been released under an intellectual property license that permits sharing, accessing, repurposing--including for commercial purposes--and collaborating with others. What are the resources specifically mentioned?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141949+O619CB</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141949+UbHaHA</version>
+        <hidden>0</hidden>
+        <timecreated>1420208389</timecreated>
+        <timemodified>1420208389</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4659">
+              <answertext>&lt;p&gt;teaching, learning, and research&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, these are specific types of resources mentioned within the definition in the National Educational Technology Plan (p. 56)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4660">
+              <answertext>&lt;p&gt;paper documents, movies and podcasts&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4661">
+              <answertext>&lt;p&gt;games, eTextbooks, and simulations&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4662">
+              <answertext>&lt;p&gt;data sites, educational research and multimedia resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1026">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1424">
+        <parent>0</parent>
+        <name>If you don't know -what should you do?</name>
+        <questiontext>&lt;p&gt;If you are unable to find information about a resource's usage rights on a website, what should you do? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141949+attvuT</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141950+NcGWoJ</version>
+        <hidden>0</hidden>
+        <timecreated>1420208389</timecreated>
+        <timemodified>1420208389</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4663">
+              <answertext>&lt;p&gt;don't use this resource&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This is a good alternative, but if the resource is really good you should always ask.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4664">
+              <answertext>&lt;p&gt;ask for information by using the site's "contact us" or "help" link&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4665">
+              <answertext>&lt;p&gt;refer to related websites&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4666">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licensing in module 2 and searching in module 3.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1027">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1425">
+        <parent>0</parent>
+        <name>Less open 2</name>
+        <questiontext>&lt;p&gt;Which license is less open?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141950+2TBC3b</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141950+oKxpaX</version>
+        <hidden>0</hidden>
+        <timecreated>1420208390</timecreated>
+        <timemodified>1420208390</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4667">
+              <answertext>&lt;p&gt;&lt;img style="width: 160px; height: 36px;" src="@@PLUGINFILE@@/by-sa.png" alt="Rectangle image with CC BY-SA" width="28" height="30" /&gt;&lt;/p&gt;
+&lt;p&gt;CC BY SA&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;A license with attribution (BY) and share-alike (SA) is considered an open license.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4668">
+              <answertext>&lt;p&gt;&lt;img style="width: 164px; height: 37px;" src="@@PLUGINFILE@@/by-nc-nd.png" alt="Rectangle image with CC BY-NC-ND" width="28" height="30" /&gt;&lt;/p&gt;
+&lt;p&gt;CC BY NC ND&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;You are correct. This license does not permit commercial use or any derivative works, so it is &lt;em&gt;less open&lt;/em&gt; than some of the other Creative Commons licenses.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4669">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about these types of licenses in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1028">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1426">
+        <parent>0</parent>
+        <name>Less open 3</name>
+        <questiontext>&lt;p&gt;Which license is less open?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141950+bxHJeu</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141950+8biJC9</version>
+        <hidden>0</hidden>
+        <timecreated>1420208390</timecreated>
+        <timemodified>1420208390</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4670">
+              <answertext>&lt;p&gt;&lt;img style="width: 262px; height: 55px;" src="@@PLUGINFILE@@/by-nc-sa.png" alt="Rectangle image with CC BY-SA" width="28" height="30" /&gt;&lt;/p&gt;
+&lt;p&gt;CC BY SA&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span style="color: black; font-family: 'Arial',sans-serif; font-size: 10pt;"&gt;You are correct. This license does not permit commercial use, so it is &lt;em&gt;&lt;span style="font-family: 'Arial',sans-serif;"&gt;less open&lt;/span&gt;&lt;/em&gt; than some of the other Creative Commons licenses. &lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4671">
+              <answertext>&lt;p&gt;&lt;img style="width: 266px; height: 48px;" src="@@PLUGINFILE@@/by.png" alt="Rectangle image with CC BY" width="28" height="30" /&gt;&lt;/p&gt;
+&lt;p&gt;CC BY&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;CC-BY is an open license only requiring attribution (BY) to the creator.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4672">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licenses in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1029">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1427">
+        <parent>0</parent>
+        <name>Less open license - 5R</name>
+        <questiontext>&lt;p&gt;On a scale of "less open" and "more open" if a license places restrictions or requirements on a users ability to engage in the 5R activities, which of these options would apply to the work?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141951+V4QW7H</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141951+9h9vG2</version>
+        <hidden>0</hidden>
+        <timecreated>1420208391</timecreated>
+        <timemodified>1420208391</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4673">
+              <answertext>&lt;p&gt;less open&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;You are correct, any license that places restrictions on how a work can be used would be considered "less open."&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4674">
+              <answertext>&lt;p&gt;unavailable&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4675">
+              <answertext>&lt;p&gt;OER-rich&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4676">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about the 5R's and licensing in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1030">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1428">
+        <parent>0</parent>
+        <name>Marked as free cultural work</name>
+        <questiontext>&lt;p&gt;If a resource is marked as 'Approved for Free Cultural Works,' what does that mean? &lt;/p&gt;
+&lt;p&gt;&lt;img style="width: 145px; height: 152px;" src="@@PLUGINFILE@@/FreeCulturalWorkSeal.png" alt="Round image with the words Approved for Free Cultural Works." width="28" height="30" /&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141951+6C8bbE</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141951+6IYuxD</version>
+        <hidden>0</hidden>
+        <timecreated>1420208391</timecreated>
+        <timemodified>1420208391</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4677">
+              <answertext>&lt;p&gt;It is one of the more open licenses.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes you are correct! Read more about Free Cultural Works here: Https://creativecommons.org/freeworks&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4678">
+              <answertext>&lt;p&gt;It is one of the less open licenses. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4679">
+              <answertext>&lt;p&gt;I don't know.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licensing in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1031">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1429">
+        <parent>0</parent>
+        <name>Online resources protected by</name>
+        <questiontext>&lt;p&gt;You should assume that most resources we find online are protected by a  __________ license.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141953+5cqkFY</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141953+g6JNiD</version>
+        <hidden>0</hidden>
+        <timecreated>1420208393</timecreated>
+        <timemodified>1420208393</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4680">
+              <answertext>&lt;p&gt;copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4681">
+              <answertext>&lt;p&gt;non-use agreement&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4682">
+              <answertext>&lt;p&gt;Wikimedia Commons&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4683">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licenses in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1032">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1430">
+        <parent>0</parent>
+        <name>Redistribute 5Rs</name>
+        <questiontext>&lt;p&gt;From the list of words below, which term means "the right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend)" as part of the 5R's Framework?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141955+Tm54Vv</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141956+4PxDCs</version>
+        <hidden>0</hidden>
+        <timecreated>1420208395</timecreated>
+        <timemodified>1420208395</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4684">
+              <answertext>&lt;p&gt;Refurbish&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4685">
+              <answertext>&lt;p&gt;Reduce&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4686">
+              <answertext>&lt;p&gt;Redistribute&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, you are correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4687">
+              <answertext>&lt;p&gt;Reclaim&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1033">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1431">
+        <parent>0</parent>
+        <name>Remix 5Rs</name>
+        <questiontext>&lt;p&gt;From the list of words below, which means "the right to combine the original or revised content with other open content to create something new (e.g. incorporate the content into a mash-up)" as part of the 5R's Framework? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141956+czWuTF</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141956+Er8gHj</version>
+        <hidden>0</hidden>
+        <timecreated>1420208396</timecreated>
+        <timemodified>1420208396</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4688">
+              <answertext>&lt;p&gt;Remix&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, you are correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4689">
+              <answertext>&lt;p&gt;Revise&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4690">
+              <answertext>&lt;p&gt;Redistribute&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4691">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licensing in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1034">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1432">
+        <parent>0</parent>
+        <name>Retain 5Rs</name>
+        <questiontext>&lt;p&gt;From the list of words below, which means "the right to make, own, and control copies of the content (e.g. download, duplicate, store, and manage) in the 5R's Framework?" &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141957+MB1zwc</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141957+HuQXPX</version>
+        <hidden>0</hidden>
+        <timecreated>1420208397</timecreated>
+        <timemodified>1420208397</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4692">
+              <answertext>&lt;p&gt;Retain&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4693">
+              <answertext>&lt;p&gt;Reuse&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4694">
+              <answertext>&lt;p&gt;Remix&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4695">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about these terms in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1035">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1433">
+        <parent>0</parent>
+        <name>Reuse 5Rs</name>
+        <questiontext>&lt;p&gt;From the list of words below, which means "the right to use the content in a wide range of ways (e.g. in a class, in a study group, on a website, in a video)" as part of the 5R's Framework?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141958+3mNc3F</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141958+Rz5rqx</version>
+        <hidden>0</hidden>
+        <timecreated>1420208398</timecreated>
+        <timemodified>1420208398</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4696">
+              <answertext>&lt;p&gt;Reuse&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, you are correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4697">
+              <answertext>&lt;p&gt;Retain&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4698">
+              <answertext>&lt;p&gt;Remix&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4699">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about the 5R's Framework in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1036">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1434">
+        <parent>0</parent>
+        <name>Revise - 5Rs</name>
+        <questiontext>&lt;p&gt;From the list of words below, which means "the right to adapt, adjust, modify, or alter the content itself (e.g., translate the content into another language)" as part of the 5R's Framework?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141958+3anunR</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141958+3VuvJU</version>
+        <hidden>0</hidden>
+        <timecreated>1420208398</timecreated>
+        <timemodified>1420208398</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4700">
+              <answertext>&lt;p&gt;Revise&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, you are correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4701">
+              <answertext>&lt;p&gt;Redistribute&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4702">
+              <answertext>&lt;p&gt;Reuse&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4703">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about the 5R's Framework in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1037">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1435">
+        <parent>0</parent>
+        <name>Tech advances</name>
+        <questiontext>&lt;p&gt;Advances in _______________ make it possible to share information and resources through the Internet.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141959+eB5AoP</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141959+OPxl6q</version>
+        <hidden>0</hidden>
+        <timecreated>1420208399</timecreated>
+        <timemodified>1420208399</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4704">
+              <answertext>&lt;p&gt;teaching methodologies&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4705">
+              <answertext>&lt;p&gt;technology&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4706">
+              <answertext>&lt;p&gt;communication theory&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4707">
+              <answertext>&lt;p&gt;universities&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1038">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1436">
+        <parent>0</parent>
+        <name>Types of OER</name>
+        <questiontext>&lt;p&gt;Choose which items that can be considered an Open Educational Resource.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>4.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141959+qxsFhe</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141959+hLB4Ul</version>
+        <hidden>0</hidden>
+        <timecreated>1420208399</timecreated>
+        <timemodified>1420208399</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4708">
+              <answertext>&lt;p&gt;Digital documents like lesson plans or textbooks.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;Yes, documents can be downloaded and printed for local use, or read online. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4709">
+              <answertext>&lt;p&gt;Digital media like video lectures, screencasts, video tutorials, audio files and music.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;Yes, media can be licensed as an OER.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4710">
+              <answertext>&lt;p&gt;Online games and simulations.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;Correct, these types of resources can be licensed as an OER.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4711">
+              <answertext>&lt;p&gt;Online courses in a variety of subjects, they can be teacher created or from institutions like MIT.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;You are right! &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1039">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1437">
+        <parent>0</parent>
+        <name>Understanding OER</name>
+        <questiontext>&lt;p&gt;The key to understanding OER lies in the phrase "resources that reside in the _________________ or have been released under an intellectual property license that permits their free use and re-purposing by others." &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2. &lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102142000+pk0dEk</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102142000+dfYn3B</version>
+        <hidden>0</hidden>
+        <timecreated>1420208400</timecreated>
+        <timemodified>1420208400</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4712">
+              <answertext>&lt;p&gt;public domain&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, you are correct.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4713">
+              <answertext>&lt;p&gt;educational arena&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4714">
+              <answertext>&lt;p&gt;5Rs Framework&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4715">
+              <answertext>&lt;p&gt;I don't know.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licensing in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1040">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1438">
+        <parent>0</parent>
+        <name>Where can you share your work</name>
+        <questiontext>&lt;p&gt;Where can you share your work?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102142001+QEVJhE</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102142001+kQQzdQ</version>
+        <hidden>0</hidden>
+        <timecreated>1420208401</timecreated>
+        <timemodified>1420208401</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4716">
+              <answertext>&lt;p&gt;your class website&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4717">
+              <answertext>&lt;p&gt;your school website&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4718">
+              <answertext>&lt;p&gt;local file server&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4719">
+              <answertext>&lt;p&gt;web-based OER repositories&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4720">
+              <answertext>&lt;p&gt;All of these&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1041">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1439">
+        <parent>0</parent>
+        <name>Where to find rights</name>
+        <questiontext>&lt;p&gt;When trying to determine the usage rights of a specific resources, which section of the website should you check?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102142001+E3cIGR</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102142001+EqGg4N</version>
+        <hidden>0</hidden>
+        <timecreated>1420208401</timecreated>
+        <timemodified>1420208401</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4721">
+              <answertext>&lt;p&gt;Terms of Use&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This is partially correct, there are more areas you could check too.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4722">
+              <answertext>&lt;p&gt;Terms of Service&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This is partially correct, there are more areas you could check too.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4723">
+              <answertext>&lt;p&gt;Copyright&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This is partially correct, there are more areas you could check too.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4724">
+              <answertext>&lt;p&gt;All of these. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, this is correct. You may have to check more than one area to find the usage rights on a website.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1042">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1440">
+        <parent>0</parent>
+        <name>Which is more open</name>
+        <questiontext>&lt;p&gt;Which of these licenses is more open?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102142001+AJwRju</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102142001+UlzTKN</version>
+        <hidden>0</hidden>
+        <timecreated>1420208401</timecreated>
+        <timemodified>1420208401</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4725">
+              <answertext>&lt;p&gt;&lt;img style="width: 230px; height: 49px;" src="@@PLUGINFILE@@/by.png" alt="Rectangle image with CC BY" width="28" height="30" /&gt;&lt;/p&gt;
+&lt;p&gt;CC BY &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;You are correct, the CC-BY (Creative Commons Attribution) is the most open license requiring only attribution to the original creator.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4726">
+              <answertext>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/by-nc-nd.png" alt="Rectangle image with CC BY-NC-ND" width="267" height="50" /&gt;&lt;/p&gt;
+&lt;p&gt;CC BY NC ND&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This license is considered &lt;em&gt;less open&lt;/em&gt; because it restricts users from commercial use, and does not allow for any derivative works.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4727">
+              <answertext>&lt;p&gt;I don't know.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licensing in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1043">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1441">
+        <parent>0</parent>
+        <name>Which is more Open 2</name>
+        <questiontext>&lt;p&gt;Which of these licenses is more open?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102142002+LPfFhD</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102142002+MLEy2w</version>
+        <hidden>0</hidden>
+        <timecreated>1420208402</timecreated>
+        <timemodified>1420208402</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4728">
+              <answertext>&lt;p&gt;&lt;img src="@@PLUGINFILE@@/by-nd.png" alt="Rectangle image with CC BY-ND" width="267" height="50" /&gt;&lt;/p&gt;
+&lt;p&gt;Creative Commons Attribution No-Derivs&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;&lt;span style="color: black; font-family: 'Arial',sans-serif; font-size: 10pt;"&gt;This license does not permit any derivative works, so it is &lt;em&gt;&lt;span style="font-family: 'Arial',sans-serif;"&gt;less open&lt;/span&gt;&lt;/em&gt; than some of the other Creative Commons licenses. &lt;!--?xml:namespace prefix = "o" ns = "urn:schemas-microsoft-com:office:office" /--&gt;&lt;/span&gt;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4729">
+              <answertext>&lt;p&gt;&lt;img style="width: 255px; height: 58px;" src="@@PLUGINFILE@@/cc-zero.png" alt="Rectangle image with Public Domain text." width="28" height="30" /&gt;&lt;/p&gt;
+&lt;p&gt;  Public Domain&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;You are correct. Public domain is the purest form of open/free, since no one owns or controls the material in any way. (See &lt;a href="https://wiki.creativesommons.org/Public_domain"&gt;https://wiki.creativesommons.org/Public_domain&lt;/a&gt;)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4730">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about licenses in Module 2.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1044">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1442">
+        <parent>1442</parent>
+        <name>Random (C1-Mod_2 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020142+U5aaZ9</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020144+fXFDN1</version>
+        <hidden>0</hidden>
+        <timecreated>1420250502</timecreated>
+        <timemodified>1420250502</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1443">
+        <parent>1443</parent>
+        <name>Random (C1-Mod_2 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020145+zr5jF0</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020145+CxVAM7</version>
+        <hidden>0</hidden>
+        <timecreated>1420250505</timecreated>
+        <timemodified>1420250505</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1444">
+        <parent>1444</parent>
+        <name>Random (C1-Mod_2 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020145+BjsAyF</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020145+jMzNF7</version>
+        <hidden>0</hidden>
+        <timecreated>1420250505</timecreated>
+        <timemodified>1420250505</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1445">
+        <parent>1445</parent>
+        <name>Random (C1-Mod_2 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020146+UKLr80</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020146+hM6vIY</version>
+        <hidden>0</hidden>
+        <timecreated>1420250506</timecreated>
+        <timemodified>1420250506</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1446">
+        <parent>1446</parent>
+        <name>Random (C1-Mod_2 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020146+4jqSxx</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020147+ZjakuO</version>
+        <hidden>0</hidden>
+        <timecreated>1420250506</timecreated>
+        <timemodified>1420250506</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="219">
+    <name>C1-Mod_3</name>
+    <contextid>1130</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>45</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150102141943+O7qPIw</stamp>
+    <parent>216</parent>
+    <sortorder>2</sortorder>
+    <questions>
+      <question id="1447">
+        <parent>0</parent>
+        <name>5Rs and open content</name>
+        <questiontext>&lt;p&gt;Which Framework expresses the primary permission (or usage rights) for open content?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 2.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141943+bQyQQr</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141943+HMPIfU</version>
+        <hidden>0</hidden>
+        <timecreated>1420208383</timecreated>
+        <timemodified>1420208383</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4731">
+              <answertext>&lt;p&gt;5Rs Framework&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4732">
+              <answertext>&lt;p&gt;3Ds Framework&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4733">
+              <answertext>&lt;p&gt;6Ts Framework&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4734">
+              <answertext>&lt;p&gt;Open Educational Resources&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1045">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="3" contextid="1130">
+            <name>mod2</name>
+            <rawname>Mod2</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1448">
+        <parent>0</parent>
+        <name>OER Commons - added AE</name>
+        <questiontext>&lt;p&gt;Of the websites listed below, which one provides an "adult education" filter to its grade level category?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141951+YJlf3w</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141952+aDqX2h</version>
+        <hidden>0</hidden>
+        <timecreated>1420208391</timecreated>
+        <timemodified>1420208391</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4735">
+              <answertext>&lt;p&gt;Creative Commons&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4736">
+              <answertext>&lt;p&gt;OER Commons&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, OER Commons allows users to filter results for adult learners.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4737">
+              <answertext>&lt;p&gt;Google search&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4738">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about searching and using filters in Module 3.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1046">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1449">
+        <parent>0</parent>
+        <name>OER Commons - My OER</name>
+        <questiontext>&lt;p&gt;On the OER Commons site, what button should you click in order to go to &lt;em&gt;My Profile, My Items &lt;/em&gt;and &lt;em&gt;My Groups&lt;/em&gt;?  &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141952+pXmIYA</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141952+3GL3En</version>
+        <hidden>0</hidden>
+        <timecreated>1420208392</timecreated>
+        <timemodified>1420208392</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4739">
+              <answertext>&lt;p&gt;Home&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4740">
+              <answertext>&lt;p&gt;Connect&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4741">
+              <answertext>&lt;p&gt;My OER&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4742">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about OER Commons in Module 3.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1047">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1450">
+        <parent>0</parent>
+        <name>OER Commons - what can you do</name>
+        <questiontext>&lt;p&gt;The OER Commons website allows you to do many things related to Open Educational Resources. Select all the activities you can do from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141952+9wAlj1</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141953+5GnfPq</version>
+        <hidden>0</hidden>
+        <timecreated>1420208392</timecreated>
+        <timemodified>1420208392</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4743">
+              <answertext>&lt;p&gt;submit your own CC licensed materials&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4744">
+              <answertext>&lt;p&gt;review/evaluate resources submitted by others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4745">
+              <answertext>&lt;p&gt;comment and rate resources &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4746">
+              <answertext>&lt;p&gt;join special interest groups&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4747">
+              <answertext>&lt;p&gt;delete resources submitted by others&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This is not something you can do on the OER Commons website.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1048">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1451">
+        <parent>0</parent>
+        <name>OER Portfolio *review</name>
+        <questiontext>&lt;p&gt;Which link on the OER Commons web site allows you to see your saved, evaluated, remixed and authored items?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141953+iS2V18</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141953+zAwCPh</version>
+        <hidden>0</hidden>
+        <timecreated>1420208393</timecreated>
+        <timemodified>1420208393</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4748">
+              <answertext>&lt;p&gt;preview&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4749">
+              <answertext>&lt;p&gt;repository&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4750">
+              <answertext>&lt;p&gt;My OER&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, this is correct. You can see all your saved, submitted, remixed and authored items by selecting "My OER" from the OER Commons home page after you have logged in.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4751">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about OER Commons in Module 3.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1049">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1452">
+        <parent>0</parent>
+        <name>Open pedagogy - practice is</name>
+        <questiontext>&lt;p&gt;&lt;em&gt;Open ___________________&lt;/em&gt; is a practice of openness in learning and teaching that shares all phases and elements of instruction. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141954+7zmllU</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141954+xMjBsX</version>
+        <hidden>0</hidden>
+        <timecreated>1420208394</timecreated>
+        <timemodified>1420208394</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4752">
+              <answertext>&lt;p&gt;learning&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4753">
+              <answertext>&lt;p&gt;pedagogy&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4754">
+              <answertext>&lt;p&gt;education&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4755">
+              <answertext>&lt;p&gt;instruction&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1050">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1453">
+        <parent>0</parent>
+        <name>Repository - classify resources</name>
+        <questiontext>&lt;p&gt;Repositories can classify resources by which of the following categories? Choose all that apply from the list below.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141956+Qcbx8U</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141957+nJttTd</version>
+        <hidden>0</hidden>
+        <timecreated>1420208396</timecreated>
+        <timemodified>1420208396</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4756">
+              <answertext>&lt;p&gt;type&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4757">
+              <answertext>&lt;p&gt;subject area&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4758">
+              <answertext>&lt;p&gt;level&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4759">
+              <answertext>&lt;p&gt;conditions of use&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4760">
+              <answertext>&lt;p&gt;media type&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1051">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1454">
+        <parent>0</parent>
+        <name>Repository - define</name>
+        <questiontext>&lt;p&gt;What do you call a website that curates and stores a collection of online resources?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141957+UAjFZ9</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141957+1iz6as</version>
+        <hidden>0</hidden>
+        <timecreated>1420208397</timecreated>
+        <timemodified>1420208397</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4761">
+              <answertext>&lt;p&gt;search engine&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4762">
+              <answertext>&lt;p&gt;repository site&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4763">
+              <answertext>&lt;p&gt;library&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This is a reasonable answer, but a library curates books more than websites.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4764">
+              <answertext>&lt;p&gt;I don't know&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's OK, you'll learn more about these types of websites in Module 3.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1052">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1455">
+        <parent>0</parent>
+        <name>steps for effective searching</name>
+        <questiontext>&lt;p&gt;Select the best answer that represents the process of an effective search. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102141958+dSQx04</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150102141959+RuhwJl</version>
+        <hidden>0</hidden>
+        <timecreated>1420208398</timecreated>
+        <timemodified>1420208398</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4765">
+              <answertext>&lt;p&gt;Define your search question, identify key words, write effective search terms, and use advanced features to refine and improve your search results.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Yes, this is the best answer because it encompasses all the steps to create and refine your search for OER.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4766">
+              <answertext>&lt;p&gt;Write key terms in the search box, review all the search results.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer doesn't encompass the other elements of a good search strategy.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4767">
+              <answertext>&lt;p&gt;Type in key terms in the search box, refine the results with advanced search features.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;It is important to define your question and key terms first.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4768">
+              <answertext>&lt;p&gt;Use advanced search tools to refine your search query.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer doesn't encompass the other elements of a good search strategy.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1053">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+          <tag id="1" contextid="1130">
+            <name>mod3</name>
+            <rawname>Mod3</rawname>
+          </tag>
+        </tags>
+      </question>
+      <question id="1456">
+        <parent>0</parent>
+        <name>When you share...</name>
+        <questiontext>&lt;p&gt;When you share materials that you have created, you deserve to: &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Review Module 3.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>4.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150102142000+gdFf3l</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+180731142624+Mx6wTP</version>
+        <hidden>0</hidden>
+        <timecreated>1420208400</timecreated>
+        <timemodified>1533047183</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>56</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="4769">
+              <answertext>&lt;p&gt;license it so you receive credit for the excellent work you produce&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;You should always receive credit for your creations. (You earned 0.25 points for this answer.)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4770">
+              <answertext>&lt;p&gt;ensure the material is used in a way you deem most appropriate&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;By licensing it, you know how your work will be used in the future. (You earned 0.25 points for this answer.)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4771">
+              <answertext>&lt;p&gt;be recognized as a contributor to educators everywhere far beyond your local classroom&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;Sharing your work allows you to expand into larger educational networks.(You earned 0.25 points for this answer.)&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="4772">
+              <answertext>&lt;p&gt;All of these.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.2500000</fraction>
+              <feedback>&lt;p&gt;Yes, all of these answers are correct. If you only chose this answer, you've earned 0.25 points.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1054">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1457">
+        <parent>1457</parent>
+        <name>Random (C1-Mod_3 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020203+ebJ7Wt</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020204+IRaMdV</version>
+        <hidden>0</hidden>
+        <timecreated>1420250523</timecreated>
+        <timemodified>1420250523</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1458">
+        <parent>1458</parent>
+        <name>Random (C1-Mod_3 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020205+XVMmoW</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020206+J9rGxm</version>
+        <hidden>0</hidden>
+        <timecreated>1420250525</timecreated>
+        <timemodified>1420250525</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1459">
+        <parent>1459</parent>
+        <name>Random (C1-Mod_3 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020207+aw6iAe</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020207+9lWSge</version>
+        <hidden>0</hidden>
+        <timecreated>1420250527</timecreated>
+        <timemodified>1420250527</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1460">
+        <parent>1460</parent>
+        <name>Random (C1-Mod_3 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020208+N4cWew</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020210+V3hzLu</version>
+        <hidden>0</hidden>
+        <timecreated>1420250528</timecreated>
+        <timemodified>1420250529</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="1461">
+        <parent>1461</parent>
+        <name>Random (C1-Mod_3 and subcategories)</name>
+        <questiontext>1</questiontext>
+        <questiontextformat>0</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>0</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>random</qtype>
+        <length>1</length>
+        <stamp>ovae-moodle-dev.myquotient.net+150103020211+H2nfNw</stamp>
+        <version>ovae-moodle-dev.myquotient.net+150103020212+mIhUfi</version>
+        <hidden>0</hidden>
+        <timecreated>1420250531</timecreated>
+        <timemodified>1420250531</timemodified>
+        <createdby>6</createdby>
+        <modifiedby>6</modifiedby>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="220">
+    <name>Default for Knowledge Check!</name>
+    <contextid>3843</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>3043</contextinstanceid>
+    <info>The default category for questions shared in context 'Knowledge Check!'.</info>
+    <infoformat>0</infoformat>
+    <stamp>ovae-moodle-dev.myquotient.net+150103020122+8xzhgr</stamp>
+    <parent>399</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="398">
+    <name>top</name>
+    <contextid>1130</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>45</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>unknownhost+190207210443+d9q5Wd</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="399">
+    <name>top</name>
+    <contextid>3843</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>3043</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>unknownhost+190207210443+oppHCE</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

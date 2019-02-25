@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="500" moduleid="3049" modulename="page" contextid="3849">
+  <page id="500">
+    <name>Science &amp; Engineering Practices Checklist</name>
+    <intro>&lt;p&gt;Option to view/download the Science and Engineering Practices Checklist&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;&lt;b&gt;Guidelines and Purpose for Using the Science &amp;amp; Engineering Practices Checklist&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: small;" size="3"&gt;The Science &amp;amp; Engineering Practices Checklist provides instructors a vehicle for reflecting on the educational value and affordances of each OER and activity beyond the scientific or engineering content being addressed. By identifying relevant Next Generation Science Practices, teachers become mindful of how they are asking learners to spend their limited education time and thus become purposeful in their instructional decision making. As a by-product of this process, participating teachers will become intimately acquainted with and thoughtful about the Next Generation Science Practices or other standards used to guide instruction.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a title="Science and Engineering Practices Checklist" href="@@PLUGINFILE@@/Science%20and%20Engineering%20Practices%20Checklist.rtf"&gt;Download the Checklist&lt;/a&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;b&gt;Using This Checklist&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Identify the OER and lesson goals at the top of the page.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Once an OER has been identified as potentially useful, be sure to list the OER and lesson goals at the top of the page. Use the checklist to identify the mathematical concepts, procedures, real-world applications, and science and engineering practices that could be developed by using the OER. This process requires an instructor to ask the following questions regarding the identified OER:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;1) Does the OER support the development of science and engineering concepts, procedures, or real-world applications? These are listed as the first three categories on the checklist.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;2) Does the OER support the development of any of the science and engineering practices listed in the second half of the checklist? &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Although no single OER will likely meet all lesson goals, using the checklist to check off the corresponding OER with a checkmark, an “X,” a “yes,” or a “no” will help identify any gaps or omissions. If any key concepts or practices are not met, then an additional OER or other complementary/supplemental activities should be added. The last column identifies any complementary or supplemental activities needed to complete the lesson. These activities could precede, surround, or follow the implementation of the OER to meet the instructional goals for learning. Be sure to consider how the complementary activities might be used to develop additional practices and note which additional practices are being met.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;The checklist tool will help keep key science and engineering concepts and practices in an easily accessible, easy-to-use format as OER lessons are created. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1425688413</timemodified>
+  </page>
+</activity>

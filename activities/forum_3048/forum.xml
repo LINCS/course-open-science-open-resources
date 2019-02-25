@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="510" moduleid="3048" modulename="forum" contextid="3848">
+  <forum id="510">
+    <type>general</type>
+    <name>Creating your vision for using OER to improve student practice</name>
+    <intro>&lt;p style="text-align: left;"&gt;As discussed in the presentation, OER move us toward more open instruction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: left;"&gt;What is your vision for an open science class?&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;What does open pedagogy mean to you?&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;What practices will guide your vision of open instruction?&lt;/li&gt;
+&lt;li style="text-align: left;"&gt;What practices will you help students develop in your open science class?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: left;"&gt;Review the &lt;a title="Science and Engineering Practices Checklist" href="https://ovae-moodle-dev.myquotient.net/draftfile.php/80/user/draft/945909846/Science%20and%20Engineering%20Practices%20Checklist.odt"&gt;Science &amp;amp; Engineering Practices Checklist&lt;/a&gt; (the file will download to your computer). Consider the questions above and revise your checklist based on your responses.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Here, post an explanation of how you changed your checklist, what you added or deleted, and why.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Upload a copy of your checklist as it has been revised so others can see your revisions. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;This is a good opportunity for you to see how other teachers look at this process. There is no right or wrong checklist here; this is a tool to help you in the reviewing, planning, and implementation process.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-4</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175562</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

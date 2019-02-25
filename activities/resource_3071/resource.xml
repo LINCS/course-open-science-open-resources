@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="251" moduleid="3071" modulename="resource" contextid="3871">
+  <resource id="251">
+    <name>LINCS Lesson Planner</name>
+    <intro>&lt;p&gt;The  LINCS Lesson Planner is a tool that allows you to build a full lesson, following the WIPPEA model and incorporating backward design.&lt;/p&gt;
+&lt;p&gt;With this worksheet you can create a lesson plan incorporating OER and open pedagogical principals on the topic of your choice.  &lt;/p&gt;
+&lt;p&gt;Remember to save your lesson as you go. When you have completed your lesson, you can print it out for use in your classroom, share it with others in the course for feedback, and publish it as an OER.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>3</revision>
+    <timemodified>1477952280</timemodified>
+  </resource>
+</activity>

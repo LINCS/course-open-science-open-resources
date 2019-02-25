@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="574" contextid="3827" version="2018051400">
+  <blockname>html</blockname>
+  <parentcontextid>1130</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>5</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6Mzp7czo0OiJ0ZXh0IjtzOjI1NzoiPHA+U3lsbGFidXM8L3A+DQo8cD48YSBocmVmPSJAQFBMVUdJTkZJTEVAQC9PRVJfVHJhaW5pbmdfRmFjaWxpdGF0aW9uR3VpZGUuZG9jeCI+RmFjaWxpdGF0aW9uIEd1aWRlPC9hPjwvcD4NCjxwPjxhIHRpdGxlPSJPRVIgU1RFTSBQRCBSZXNvdXJjZXMiIGhyZWY9Imh0dHA6Ly93d3cudGlueXVybC5jb20vb2Vyc3RlbXBkcmVzb3VyY2VzIiB0YXJnZXQ9Il9ibGFuayI+T0VSIFNURU0gUEQgUmVzb3VyY2XCoExpc3Q8L2E+IChHb29nbGUgRG9jKTwvcD4iO3M6NToidGl0bGUiO3M6MTY6IkNvdXJzZSBSZXNvdXJjZXMiO3M6NjoiZm9ybWF0IjtzOjE6IjEiO30=</configdata>
+  <timecreated>1549573478</timecreated>
+  <timemodified>1549573478</timemodified>
+  <block_positions>
+    <block_position id="186">
+      <contextid>1130</contextid>
+      <pagetype>course-view-topcoll</pagetype>
+      <subpage></subpage>
+      <visible>0</visible>
+      <region>side-post</region>
+      <weight>5</weight>
+    </block_position>
+    <block_position id="187">
+      <contextid>1130</contextid>
+      <pagetype>course-view-topics</pagetype>
+      <subpage></subpage>
+      <visible>0</visible>
+      <region>side-post</region>
+      <weight>5</weight>
+    </block_position>
+  </block_positions>
+</block>

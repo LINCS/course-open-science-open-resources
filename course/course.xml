@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="45" contextid="1130">
+  <shortname>OER-Science</shortname>
+  <fullname>Open Science-Open Resources</fullname>
+  <idnumber>dbrown</idnumber>
+  <summary>&lt;p&gt;This course is designed to help science teachers find quality OER for the adult education (AE) classroom, evaluate them for appropriate classroom use, and assess their effectiveness in meeting learning objectives. It provides teachers with ideas and resources for instructional strategies to introduce and engage adult students in learning science.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topcoll</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1393390800</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>2</legacyfiles>
+  <showreports>1</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme>lincs</theme>
+  <timecreated>1393364533</timecreated>
+  <timemodified>1532449434</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>9</numsections>
+  <hiddensections>0</hiddensections>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>8</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>1</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
+  <category id="14">
+    <name>OER STEM</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+</course>

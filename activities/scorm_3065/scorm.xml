@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="122" moduleid="3065" modulename="scorm" contextid="3865">
+  <scorm id="122">
+    <name>Planning Rich Instruction with OER -  Presentation</name>
+    <scormtype>local</scormtype>
+    <reference>OpenScience_Mod6_SCORM.zip</reference>
+    <intro>&lt;p&gt;In this module, you will learn about how to prepare students for rich instruction with OER.&lt;/p&gt;
+&lt;p&gt;Estimated time to complete this module: 11:00 minutes&lt;/p&gt;
+&lt;p&gt;After selecting the title of the presentation, be sure to select the "Enter" button to start the presentation. It will open in a new window.&lt;/p&gt;
+&lt;p&gt;Transcript file: &lt;a title="Opens file in a new window" href="@@PLUGINFILE@@/OpenScience_M6_Transcript.rtf" target="_blank"&gt;Module 6 Science&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <version>SCORM_1.2</version>
+    <maxgrade>100</maxgrade>
+    <grademethod>1</grademethod>
+    <whatgrade>0</whatgrade>
+    <maxattempt>0</maxattempt>
+    <forcecompleted>0</forcecompleted>
+    <forcenewattempt>0</forcenewattempt>
+    <lastattemptlock>0</lastattemptlock>
+    <masteryoverride>1</masteryoverride>
+    <displayattemptstatus>1</displayattemptstatus>
+    <displaycoursestructure>0</displaycoursestructure>
+    <updatefreq>0</updatefreq>
+    <sha1hash>a37a32a3a5ca7fbeadb262b11f8db4351510eef4</sha1hash>
+    <md5hash></md5hash>
+    <revision>3</revision>
+    <launch>311</launch>
+    <skipview>0</skipview>
+    <hidebrowse>0</hidebrowse>
+    <hidetoc>3</hidetoc>
+    <nav>0</nav>
+    <navpositionleft>-100</navpositionleft>
+    <navpositiontop>-100</navpositiontop>
+    <auto>0</auto>
+    <popup>1</popup>
+    <options>scrollbars=0,directories=0,location=0,menubar=0,toolbar=0,status=0</options>
+    <width>800</width>
+    <height>600</height>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1477947107</timemodified>
+    <completionstatusrequired>$@NULL@$</completionstatusrequired>
+    <completionscorerequired>$@NULL@$</completionscorerequired>
+    <completionstatusallscos>$@NULL@$</completionstatusallscos>
+    <displayactivityname>1</displayactivityname>
+    <autocommit>0</autocommit>
+    <scoes>
+      <sco id="310">
+        <manifest>_6SExtFnqlNB_course_id</manifest>
+        <organization></organization>
+        <parent>/</parent>
+        <identifier>OpenScience_Mod6_ORG</identifier>
+        <launch></launch>
+        <scormtype></scormtype>
+        <title>OpenScience_Mod6</title>
+        <sortorder>1</sortorder>
+        <sco_datas>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+      <sco id="311">
+        <manifest>_6SExtFnqlNB_course_id</manifest>
+        <organization>OpenScience_Mod6_ORG</organization>
+        <parent>OpenScience_Mod6_ORG</parent>
+        <identifier>OER-STEM_Demo_SCO</identifier>
+        <launch>launcher.html</launch>
+        <scormtype>sco</scormtype>
+        <title>OER-STEM Demo</title>
+        <sortorder>2</sortorder>
+        <sco_datas>
+          <sco_data id="505">
+            <name>isvisible</name>
+            <value>true</value>
+          </sco_data>
+          <sco_data id="506">
+            <name>parameters</name>
+            <value></value>
+          </sco_data>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+    </scoes>
+  </scorm>
+</activity>

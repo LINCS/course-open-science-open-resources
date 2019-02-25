@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="572" contextid="3825" version="2018051400">
+  <blockname>html</blockname>
+  <parentcontextid>1130</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-post</defaultregion>
+  <defaultweight>0</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6Mzp7czo1OiJ0aXRsZSI7czoyNDoiRmFjaWxpdGF0b3IgQ29udGFjdCBJbmZvIjtzOjY6ImZvcm1hdCI7czoxOiIxIjtzOjQ6InRleHQiO3M6MTMyOiI8cD7CoDxzdHJvbmcgc3R5bGU9ImxpbmUtaGVpZ2h0OiAxLjIzMTsiPkVtYWlsOiA8L3N0cm9uZz48YSBzdHlsZT0ibGluZS1oZWlnaHQ6IDEuMjMxOyIgaHJlZj0ibWFpbHRvOk9FUlNURU1AYWlyLm9yZyI+PGJyIC8+PC9hPjwvcD4iO30=</configdata>
+  <timecreated>1549573478</timecreated>
+  <timemodified>1549573478</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="513" moduleid="3136" modulename="page" contextid="3952">
+  <page id="513">
+    <name>LINCS Survey</name>
+    <intro>&lt;p&gt;&lt;i id="yui_3_13_0_2_1465299391533_1184"&gt;Tell us about your experience with LINCS.&lt;/i&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p id="yui_3_13_0_2_1465299472954_413" style="text-align: left;"&gt;Congratulations on completing the LINCS course, we invite you to complete the survey&lt;i&gt;. &lt;/i&gt;Your input is really valuable to us. We will use your feedback to improve LINCS trainings and professional development.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;It typically takes 5 minutes to complete the survey. Your answers are completely anonymous and will be analyzed in combination with the answers of other course takers. Participation is voluntary.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt; Click here to start the survey: &lt;span style="text-decoration: underline;"&gt;&lt;span&gt;&lt;a href="https://www.surveygizmo.com/s3/4583669/Open-Science-Open-Resources-Plus" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.surveygizmo.com/s3/4583669/Open-Science-Open-Resources-Plus&amp;amp;source=gmail&amp;amp;ust=1538750696635000&amp;amp;usg=AFQjCNFV10gjtvxpiH-Uwcd-33poKg0r2g" title="LINCS Customer Satisfaction Survey"&gt;https://www.surveygizmo.com/&lt;wbr /&gt;s3/4583669/Open-Science-Open-&lt;wbr /&gt;Resources-Plus&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Should you have any questions about this survey, please contact Marilia Mochel &lt;a href="mailto:mmochel@manhattanstrategy.com" title="mailto:mmochel@manhattanstrategy.com
+Ctrl+Click or tap to follow the link"&gt;mmochel@manhattanstrategy.com&lt;/a&gt; or Jessie Stadd &lt;a href="mailto:jstadd@manhattanstrategy.com"&gt;jstadd@manhattanstrategy.com&lt;/a&gt;.  &lt;/p&gt;
+&lt;p style="text-align: left;"&gt; We appreciate your time and input.&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Thank you,&lt;br /&gt;The LINCS Team&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1538673288</timemodified>
+  </page>
+</activity>

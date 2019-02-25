@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="249" moduleid="3036" modulename="resource" contextid="3836">
+  <resource id="249">
+    <name>Open Science Syllabus</name>
+    <intro>&lt;p&gt;Open Science Syllabus&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>4</revision>
+    <timemodified>1532372599</timemodified>
+  </resource>
+</activity>
